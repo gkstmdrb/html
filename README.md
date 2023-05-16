@@ -10,10 +10,11 @@
 ![image](https://github.com/gkstmdrb/html/assets/114748816/aade9ef5-87d2-4f1e-86e4-d989cb60b6e2)
 
 # footer
+![image](https://github.com/gkstmdrb/html/assets/114748816/63694fcf-c6d7-414a-86db-29b0d91593ed)
 
 
 #index
 ![image](https://github.com/gkstmdrb/html/assets/114748816/dff53126-7cd2-4578-93cf-ecddbbedfddb)
 
 # style
-![image](https://github.com/gkstmdrb/html/assets/114748816/b9dcdfd6-91b1-4b61-b183-ebe8c5b6ba2f)
+![image](https://github.com/gkstmdrb/html/assets/114748816/c86ef49b-5191-47e9-b042-2add4854bc82)
