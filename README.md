@@ -12,7 +12,7 @@
 # footer
 ![image](https://github.com/gkstmdrb/html/assets/114748816/63694fcf-c6d7-414a-86db-29b0d91593ed)
 
-#index
+# index
 ![image](https://github.com/gkstmdrb/html/assets/114748816/dff53126-7cd2-4578-93cf-ecddbbedfddb)
 
 # style
